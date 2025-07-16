@@ -76,7 +76,7 @@ This is a **Django-based food delivery platform** that allows customers to place
 ## 🛠️ Tech Stack
 
 - **Backend:** Django (Traditional Views, not DRF)
-- **Frontend:** Bootstrap 5 (for admin and restaurant views)
+- **Frontend:** Bootstrap 5 (for customers, restaurant and delivery partner views)
 - **Database:** SQLite (can be swapped for PostgreSQL/MySQL)
 - **Authentication:** Django’s built-in auth system
 
